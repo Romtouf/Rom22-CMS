@@ -1,0 +1,27 @@
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Composer dependencies
+/vendor/
+
+# Node modules (if using Node.js for frontend)
+node_modules/
+
+# Cache
+cache/
+tmp/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
